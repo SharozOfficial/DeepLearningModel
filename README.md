@@ -31,7 +31,7 @@ FACTORS VS YEAR
 
 - Coefficient of determination R²
 
-![image](https://github.com/SharozOfficial/DeepLearningModel/assets/158645890/eca900ee-bf97-4c60-abc7-8fab57ef4aa0)
+![image](https://github.com/SharozOfficial/DeepLearningModel/assets/158645890/f0316631-a513-403d-9886-c3cd1dbec6ac)
 
 LSTM vs Random Forest Regressor (Time-Series Analysis)
 Computational Time : RFR > LSTM
